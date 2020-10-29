@@ -1,7 +1,7 @@
 export default {
   name: 'post',
   type: 'docutment',
-  title: 'Page',
+  title: 'Post',
   fields: [
     {
       name: 'title',
